@@ -15,9 +15,7 @@ import App from './App';
 //   return '패배';
 // }
 
-// function handleClick(){
-//   alert('가위바위보!');
-// }
+
 
 // const me = 'rock';
 // const other = 'scissor';
